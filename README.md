@@ -1,4 +1,4 @@
-#Project 05: Secure Linux Server Permissions
+# Project 05: Secure Linux Server Permissions
 
 ## Objective
 Configure Linux users, groups, file ownership, and permissions to protect shared project data from unauthorized access.
